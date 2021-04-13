@@ -1,3 +1,3 @@
-module github.com/cameronstuartsmith/superkill
+module github.com/CameronStuartSmith/superkill
 
 go 1.16
